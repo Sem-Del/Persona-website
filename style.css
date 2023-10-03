@@ -1,0 +1,26 @@
+/* Lettertype en achtergrond voor de hele website */
+body{
+    background-color: #1a1717;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Witte regel */
+.reset{
+    clear: both;
+}
+#mainContainer{
+    /* width: 600px; */
+    margin: 0px auto;
+}
+#title{
+    color: #ffffff;
+    margin: 10px 20px 0px 20px;
+}
+#kopje{
+    color: #ffffff;
+    margin: 10px 20px 0px 20px;
+}
+#introtext{
+    color: gray;
+    margin: 10px 20px 0px 20px;
+}
